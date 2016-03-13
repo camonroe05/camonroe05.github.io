@@ -79,7 +79,7 @@ body {
 
 .new-background {
   color: white;
-  background-color: #383736;
+  background-color: #222;
 }
 
 .picture-padding {
@@ -115,8 +115,8 @@ body {
 }
 
 .grey-background {
-  background-color: #222;
-  color: white;
+  background-color: white;
+  color: #222;
 }
 
 #heart {
@@ -129,7 +129,7 @@ body {
 }
 
 #footer a {
-  color: white;
+  color: #222;
 }
 
 /*#camonroe {
